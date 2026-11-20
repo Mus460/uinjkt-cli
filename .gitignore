@@ -1,0 +1,7 @@
+# Daftar putih: hanya berkas di bawah yang boleh masuk repo,
+# supaya dokumen pribadi, cookie, atau unduhan tidak ikut ter-push.
+*
+!.gitignore
+!README.md
+!akademik.py
+!lms.py
